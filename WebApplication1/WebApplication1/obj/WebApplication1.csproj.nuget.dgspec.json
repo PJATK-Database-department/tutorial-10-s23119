@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s23119\\source\\repos\\tutorial-10-s23119\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\peba2\\Source\\Repos\\tutorial-10-s23119\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s23119\\source\\repos\\tutorial-10-s23119\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\peba2\\Source\\Repos\\tutorial-10-s23119\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s23119\\source\\repos\\tutorial-10-s23119\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\peba2\\Source\\Repos\\tutorial-10-s23119\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\s23119\\source\\repos\\tutorial-10-s23119\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\s23119\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s23119\\source\\repos\\tutorial-10-s23119\\WebApplication1\\WebApplication1\\obj\\",
+        "projectPath": "C:\\Users\\peba2\\Source\\Repos\\tutorial-10-s23119\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\peba2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\peba2\\Source\\Repos\\tutorial-10-s23119\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\s23119\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\peba2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -83,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }
